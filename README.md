@@ -5,7 +5,7 @@
  (back-end ) java (servlets and jsp)
 | MySQL |
   
-- 🌱 I’m currently learning to implement more frameworks such as React(front-end) and Django/Node.js for backend .Now I am learning to almost perfect php in order to prepare for an upcoming event.I am also learning python (I only have experience in it for machine learning) so I would like to use it  for more data high scalability websites.
+- 🌱 I’m currently learning to implement more frameworks such as React(front-end) and Django/Node.js for backend .Now I am learning to almost perfect php in order to prepare for an upcoming event.I am also learning python (I only have experience in it for machine learning) so I would like to use it  for more data high scalability websites.As well as figuring out how git and terminal command work and all
 - 💞️ I'm always open to collaborating on web development and tech projects.
 - 📫 How to reach me:faithmulife093@gmail.com
 - 😄 Pronouns: She/Her
