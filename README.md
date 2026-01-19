@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Faith2421
 - 👀 I'm passionate about web development, singing, poetry, and physics. My main focus is web development, and I'm always eager to improve my skills and learn more!
-🚀 Tech Stack: HTML | CSS | JavaScript | PHP |java| MySQL  
+🚀 Tech Stack: HTML | CSS and SCSS with sass |Typescript | JavaScript | PHP |java| MySQL|Angualar as well 
 
-- 🌱 I’m Eager to learn more about frameworks and implementing them such as React.Now I am learning to almost perfect php in order to prepare for an upcoming event.I am also learning python (I only have experience in it for machine learning) so I would like to use it  for more data high scalability websites.As well as figuring out how git and terminal command work and all.
-- 💞️ I'm always open to collaborating on web development and tech projects.
+- 🌱 The best mindset to have is one that always willing to learn continuously.
+- 💞️ I'm always open to collaborating on web development and tech projects.Learning to improve both in tech and soft skills 
 - 📫 How to reach me:faithmulife093@gmail.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I am rover specifically an assistant troop scouter. 
