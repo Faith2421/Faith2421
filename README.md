@@ -1,6 +1,6 @@
 -  Hi, I’m @Faith2421
 -  I'm passionate about web development, singing, poetry, and physics. My main focus is web development, and I'm always eager to improve my skills and learn more!
-   Tech Stack: HTML | CSS and SCSS with sass |Typescript | JavaScript | PHP |java| MySQL|Angualar as well 
+   Tech Stack: HTML | CSS and SCSS with sass |Typescript | JavaScript | PHP |java| MySQL|Angualar|React Native| 
 
 - 🌱 The best mindset to have is one that always willing to learn continuously.
     I'm always open to collaborating on web development and tech projects.Learning to improve both in tech and soft skills (Comfort stunts growth)
